@@ -14,3 +14,8 @@ Projects focused on Excel, SQL, Python, databases, data visualization, and busin
 
 Fun projects using python libraries to visualize differential equations.
 
+- Greens Function and IVP
+- Degradation
+- Taylor Polynomials
+- CST305 Project
+  
